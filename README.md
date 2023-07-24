@@ -1,1 +1,3 @@
-# servo_project
+# Servo Project
+## Description
+* Simple servo control project
